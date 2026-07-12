@@ -1,5 +1,7 @@
 # 🎵 Spotify Data Analysis Dashboard
 
+![image alt](https://github.com/PratyushMishra5577/Spootify-Data-Analysis/blob/e67270d0907f1a6d3cb0d7224a140aa3f3b1b368/Screenshot%202026-07-12%20113535.png)
+
 ## 📌 Project Overview
 
 The Spotify Data Analysis Dashboard is an interactive Business Intelligence project developed using **Power BI** to analyze global Spotify streaming data. The dashboard provides meaningful insights into artist performance, song popularity, streaming trends, listener engagement, and music industry patterns through interactive visualizations and KPI cards.
