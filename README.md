@@ -2,6 +2,7 @@
 
 ![image alt](https://github.com/PratyushMishra5577/Spootify-Data-Analysis/blob/e67270d0907f1a6d3cb0d7224a140aa3f3b1b368/Screenshot%202026-07-12%20113535.png)
 ![image alt](https://github.com/PratyushMishra5577/Spootify-Data-Analysis/blob/5a43a44c17e327fbeb60a2fbe7a1d95d0ff54488/Screenshot%202026-07-12%20113559.png)
+![image alt](https://github.com/PratyushMishra5577/Spootify-Data-Analysis/blob/3d8f9e20e2d880842cdc4d8fc16b64586ced7651/Screenshot%202026-07-12%20113614.png)
 
 ## 📌 Project Overview
 
